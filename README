@@ -1,0 +1,7 @@
+Written by Jason Elter for Introduction to Machine Learning course 2020.
+
+FILES:
+linear_model.py -- linear regression and preproccesing for housing data.
+covid19.py -- linear regression and preproccesing for COVID19 data.
+Makefile -- Makefile for compiling the library.
+README -- you're reading it right now!
